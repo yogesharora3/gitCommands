@@ -14,4 +14,7 @@ isMarried = "false";
 alert(firstName + "   " + Lastname + "   " + age + "   " + isMarried);
 var n = "yogesh";
 console.log(n.slice(-4));
+
 console.log("i am other");
+
+console.log("ya baby");
