@@ -11,6 +11,7 @@ firstName = prompt("enter the first name");
 Lastname = prompt("enter the last name");
 age = prompt("enter teh age ");
 isMarried = "false";
-alert(firstName + '   ' + Lastname + '   ' + age + '   ' + isMarried);
-var n = "yogesh"
+alert(firstName + "   " + Lastname + "   " + age + "   " + isMarried);
+var n = "yogesh";
 console.log(n.slice(-4));
+console.log("i am other");
